@@ -33,7 +33,7 @@ Projeyi yerel ortamınızda ayağa kaldırmak için:
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/HexGame.git](https://github.com/KULLANICI_ADIN/HexGame.git)
+    git clone [https://github.com/NO1SY-CENG/HexGame.git](https://github.com/NO1SY-CENG/HexGame.git)
     ```
 2.  **Dizin Değiştirin:**
     ```bash
@@ -56,5 +56,5 @@ Projeyi yerel ortamınızda ayağa kaldırmak için:
 Bu proje eğitim amaçlıdır, ancak geliştirmelere açıktır. Pull Request (PR) göndermeden önce lütfen bir **Issue** açarak tartışınız.
 
 ---
-**Geliştirici:** [Senin Adın]
+**Geliştirici:** Mertcan BOZTOPRAK
 **Kurum:** Erciyes Üniversitesi
